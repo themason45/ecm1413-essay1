@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{mr-book}
+Philip~K. Dick.
+\newblock Minority report (the book).
+\newblock 1956.
+
+\bibitem{ho-pw}
+Home Office.
+\newblock Police workforce.
+\newblock 2020.
+\newblock
+  \url{https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/905169/police-workforce-mar20-hosb2020.pdf}.
+
+\bibitem{ons-crime}
+Office Of~National Statistics.
+\newblock Crime in england and wales: year ending june 2020.
+\newblock page~5, 2020.
+\newblock
+  \url{https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2020#knife-or-sharp-instrument-offences}.
+
+\end{thebibliography}
