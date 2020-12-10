@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 19:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -251,59 +251,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--141
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 142--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--160
 
  []
 
 (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
+Underfull \hbox (badness 1521) in paragraph at lines 4--10
+\OT1/cmr/m/n/10 gen-der bias. \OT1/cmr/m/it/10 IF-SEC Global\OT1/cmr/m/n/10 , 2
+020. $\OT1/cmr/m/n/10.95 https : / / www . ifsecglobal . com / video-[]surveill
+ance /
+ []
+
+
+Overfull \hbox (3.36546pt too wide) in paragraph at lines 4--10
+\OT1/cmr/m/n/10.95 why-[]ai-[]and-[]facial-[]recognition-[]software-[]is-[]unde
+r-[]scrutiny-[]for-[]racial-[]and-[]gender-[]bias/$\OT1/cmr/m/n/10 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
 []\OT1/cmr/m/n/10 ETHICS COM-MIT-TEE. Meet-ing on most se-ri-ous vi-o-lence sys
 -tem.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
 \OT1/cmr/m/n/10.95 https : / / www . westmidlands-[]pcc . gov . uk / wp-[]conte
 nt / uploads / 2019 / 12 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--20
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 []\OT1/cmr/m/n/10 Home Of-fice. Po-lice work-force. 2020. $\OT1/cmr/m/n/10.95 h
 ttps : / / assets . publishing . service . gov .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--20
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 \OT1/cmr/m/n/10.95 uk / government / uploads / system / uploads / attachment[]d
 ata / ^^Lle / 905169 /
  []
 
-
-Underfull \hbox (badness 4647) in paragraph at lines 22--27
+[4]
+Underfull \hbox (badness 4647) in paragraph at lines 30--35
 []\OT1/cmr/m/n/10 Office Of Na-tional Sta-tis-tics. Crime in eng-land and wales
 : year end-ing june
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--27
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
 \OT1/cmr/m/n/10 2020. page 5, 2020. $\OT1/cmr/m/n/10.95 https : / / www . ons .
  gov . uk / peoplepopulationandcommunity /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--27
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
 \OT1/cmr/m/n/10.95 crimeandjustice / bulletins / crimeinenglandandwales / yeare
 ndingjune2020 #
  []
 
-) [4] (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux) ) 
+) [5] (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux) ) 
 Here is how much of TeX's memory you used:
- 2200 strings out of 480608
- 29368 string characters out of 5903630
- 276879 words of memory out of 5000000
- 17944 multiletter control sequences out of 15000+600000
- 540058 words of font info for 55 fonts, out of 8000000 for 9000
+ 2203 strings out of 480608
+ 29409 string characters out of 5903630
+ 276882 words of memory out of 5000000
+ 17946 multiletter control sequences out of 15000+600000
+ 540404 words of font info for 56 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  38i,6n,34p,323b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local
@@ -311,12 +324,13 @@ Here is how much of TeX's memory you used:
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
-ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on "/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.pdf" 
-(4 pages, 86559 bytes).
+(5 pages, 98642 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -8,45 +8,45 @@ Warning--entry type for "wmp-trial" isn't style-file defined
 Warning--empty journal in mr-book
 Warning--empty journal in ho-pw
 Warning--empty journal in ons-crime
-You've used 4 entries,
+You've used 5 entries,
             2118 wiz_defined-function locations,
-            516 strings with 4663 characters,
-and the built_in function-call counts, 894 in all, are:
-= -- 83
-> -- 28
+            521 strings with 4925 characters,
+and the built_in function-call counts, 1107 in all, are:
+= -- 105
+> -- 35
 < -- 1
-+ -- 12
-- -- 8
-* -- 34
-:= -- 164
-add.period$ -- 14
-call.type$ -- 4
-change.case$ -- 16
++ -- 15
+- -- 10
+* -- 42
+:= -- 205
+add.period$ -- 18
+call.type$ -- 5
+change.case$ -- 20
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 41
-empty$ -- 78
-format.name$ -- 8
-if$ -- 183
+cite$ -- 8
+duplicate$ -- 51
+empty$ -- 95
+format.name$ -- 10
+if$ -- 226
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 25
-num.names$ -- 8
-pop$ -- 28
+int.to.str$ -- 5
+missing$ -- 4
+newline$ -- 31
+num.names$ -- 10
+pop$ -- 31
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 15
 quote$ -- 0
-skip$ -- 29
+skip$ -- 36
 stack$ -- 0
-substring$ -- 22
-swap$ -- 4
+substring$ -- 27
+swap$ -- 5
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 20
 warning$ -- 3
-while$ -- 9
-width$ -- 5
-write$ -- 43
+while$ -- 11
+width$ -- 6
+write$ -- 55
 (There were 4 warnings)
