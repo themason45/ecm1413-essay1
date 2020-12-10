@@ -5,48 +5,50 @@ The style file: plain.bst
 Database file #1: sources.bib
 Warning--entry type for "wmp-trial" isn't style-file defined
 --line 20 of file sources.bib
+Warning--entry type for "hate-crime-bill" isn't style-file defined
+--line 34 of file sources.bib
 Warning--empty journal in mr-book
 Warning--empty journal in ho-pw
 Warning--empty journal in ons-crime
-You've used 5 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            521 strings with 4925 characters,
-and the built_in function-call counts, 1107 in all, are:
-= -- 105
-> -- 35
+            525 strings with 5358 characters,
+and the built_in function-call counts, 1309 in all, are:
+= -- 123
+> -- 42
 < -- 1
-+ -- 15
-- -- 10
-* -- 42
-:= -- 205
-add.period$ -- 18
-call.type$ -- 5
-change.case$ -- 20
++ -- 18
+- -- 12
+* -- 47
+:= -- 238
+add.period$ -- 21
+call.type$ -- 6
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 51
-empty$ -- 95
-format.name$ -- 10
-if$ -- 226
+cite$ -- 9
+duplicate$ -- 58
+empty$ -- 117
+format.name$ -- 12
+if$ -- 270
 int.to.chr$ -- 0
-int.to.str$ -- 5
+int.to.str$ -- 6
 missing$ -- 4
-newline$ -- 31
-num.names$ -- 10
-pop$ -- 31
+newline$ -- 36
+num.names$ -- 12
+pop$ -- 42
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 18
 quote$ -- 0
-skip$ -- 36
+skip$ -- 42
 stack$ -- 0
-substring$ -- 27
-swap$ -- 5
+substring$ -- 32
+swap$ -- 6
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 24
 warning$ -- 3
-while$ -- 11
-width$ -- 6
-write$ -- 55
-(There were 4 warnings)
+while$ -- 13
+width$ -- 7
+write$ -- 64
+(There were 5 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 19:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 20:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -240,21 +240,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--106
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--128
+(./sections/why-shouldn't-we-do-this.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--141
+Underfull \hbox (badness 10000) in paragraph at lines 18--30
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 150--160
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
 
  []
 
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
 (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.bbl
 Underfull \hbox (badness 1521) in paragraph at lines 4--10
 \OT1/cmr/m/n/10 gen-der bias. \OT1/cmr/m/it/10 IF-SEC Global\OT1/cmr/m/n/10 , 2
@@ -281,44 +285,74 @@ nt / uploads / 2019 / 12 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+[]\OT1/cmr/m/n/10 Scottish Gov-ern-ment. Hate crime and pub-lic or-der (scot-la
+nd) bill in-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+\OT1/cmr/m/n/10 ma-tion note. $\OT1/cmr/m/n/10.95 https : / / www . gov . scot 
+/ binaries / content / documents / govscot /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+\OT1/cmr/m/n/10.95 publications / factsheet / 2020 / 04 / hate-[]crime-[]bill-[
+]what-[]it-[]will-[]do / documents /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+\OT1/cmr/m/n/10.95 hate-[]crime-[]bill-[]general-[]overview-[]note / hate-[]cri
+me-[]bill-[]general-[]overview-[]note /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+\OT1/cmr/m/n/10.95 govscot % 3Adocument / Hate % 2BCrime % 2BBill % 2B-[] % 2BI
+nformation % 2BNote %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 []\OT1/cmr/m/n/10 Home Of-fice. Po-lice work-force. 2020. $\OT1/cmr/m/n/10.95 h
 ttps : / / assets . publishing . service . gov .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \OT1/cmr/m/n/10.95 uk / government / uploads / system / uploads / attachment[]d
 ata / ^^Lle / 905169 /
  []
 
-[4]
-Underfull \hbox (badness 4647) in paragraph at lines 30--35
+
+Underfull \hbox (badness 4647) in paragraph at lines 36--41
 []\OT1/cmr/m/n/10 Office Of Na-tional Sta-tis-tics. Crime in eng-land and wales
 : year end-ing june
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
 \OT1/cmr/m/n/10 2020. page 5, 2020. $\OT1/cmr/m/n/10.95 https : / / www . ons .
  gov . uk / peoplepopulationandcommunity /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
 \OT1/cmr/m/n/10.95 crimeandjustice / bulletins / crimeinenglandandwales / yeare
 ndingjune2020 #
  []
 
 ) [5] (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux) ) 
 Here is how much of TeX's memory you used:
- 2203 strings out of 480608
- 29409 string characters out of 5903630
- 276882 words of memory out of 5000000
- 17946 multiletter control sequences out of 15000+600000
+ 2209 strings out of 480608
+ 29568 string characters out of 5903630
+ 277885 words of memory out of 5000000
+ 17948 multiletter control sequences out of 15000+600000
  540404 words of font info for 56 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 38i,6n,34p,323b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,34p,401b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local
 /texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/
@@ -327,7 +361,7 @@ xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
 /2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on "/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.pdf" 
-(5 pages, 98642 bytes).
+(5 pages, 101476 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
