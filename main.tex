@@ -4,7 +4,7 @@
 \geometry{a4paper} % or letter or a5paper or ... etc
 
 \usepackage{url}
-\renewcommand{\UrlFont}{\small\texttt{}}
+\renewcommand{\UrlFont}{\tiny\texttt{}}
 % \geometry{landscape} % rotated page geometry
 
 % See the ``Article customise'' template for come common customisations
@@ -14,7 +14,6 @@
 % https://futurism.com/the-byte/crime-prediction-ai-sucks-minority-report
 % https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/
 % https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2019/12/27112019-EC-Item-6-Minutes-and-Advice.pdf?x30523
-% https://www.scmp.com/tech/science-research/article/3004167/minority-report-style-crime-prevention-artificial
 % https://www.scmp.com/tech/science-research/article/3004167/minority-report-style-crime-prevention-artificial
 
 \title{Are We Ready For An AI-based Minority Report?}
@@ -29,35 +28,46 @@
 
     \section{Introduction}\label{sec:introduction}  % Get 300 words here
 
-    In the book Minority Report, by Philip K Dick, the city police department uses a group of psychics to read
+    In the book Minority Report, by Philip K Dick, the city police department uses a group of psychics, known as
+    "Precogs"\cite{mr-book}, to read
     the minds of the population.
     This allows the police to predict where, and when a crime will be committed by someone, which hence leads to a vast
     reduction in crime for the city, as the police could arrive before the crime, instead of after.
-    Of course this raises some ethical issues, as well as some political issues, which will be covered below.
+    Of course this raises some ethical issues, as well as some political issues.
+    It also has some limitations, that could be put down to the available data, as well as how that data is used,
+    such as human biases in the data (which is always a factor in these things).
     \\
+
     While we don't currently have such psychics, we have an awful lot of data, and a vast amount of processing power, so
     what's to say we can't use that data, and AI, to do the jobs of the psychics.
-    In this essay we will explore the viability of this, as well as the problems that could arise.
+    In this essay we will explore the viability of this, as well as the problems that could arise, as well as make a
+    decision as to whether, in 2020, with the technology we have, if its possible, and if it is, how would it
+    work?
+
 
     \section{The problem}\label{sec:the-problem}  % Get 200 words here
 
     According to the ONS, the levels of crime have been increasing over the past 5 years ~\cite{ons-crime}, which can be
-    put down to many reasons, such as a general increase in population.
+    put down to many reasons, such as a general increase in population, or the aftermath from the 2008 financial crisis,
+    as some people who lost their jobs needed to find other ways to get by.
     We have also seen a continuous decrease in the number of police officers, up until 2019 ~\cite{ho-pw}.
     This would very likely contribute to the increase in crime too, so clearly more has to be done to stop it.
+
 
     \section{The solution}\label{sec:the-solution}
     \input{sections/the-solution.tex}
 
+
     \section{Why should we do this?}\label{sec:why-should-we-do-this?}
     \input{sections/why-should-we-do-this}
+
 
     \section{Why shouldn't we do this?}\label{sec:why-shouldn't-we-do-this?}
     \input{sections/why-shouldn't-we-do-this}
 
-    \section{Conclusion}\label{sec:conclusion}  % Get 500 words here
 
-    Sum it all up here, as if they didn't even read what was above ~\cite{mr-book}
+    \section{Conclusion}\label{sec:conclusion}
+    \input{sections/conclusion}
 
     \bibliography{sources}{}
     \bibliographystyle{plain}

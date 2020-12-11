@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{ifsec-bias-article}
 Ron Alalouff.
@@ -7,6 +7,20 @@ Ron Alalouff.
 \newblock {\em IFSEC Global}, 2020.
 \newblock
   \url{https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/}.
+
+\bibitem{huawei-ban-uk}
+Tim Bowler.
+\newblock Huawei: Why is it being banned from the uk's 5g network?
+\newblock {\em BBC News}, 2020.
+\newblock \url{https://www.bbc.co.uk/news/newsbeat-47041341}.
+
+\bibitem{huawei-ban-us}
+C.~Scott Brown.
+\newblock The huawei ban explained: A complete timeline and everything you need
+  to know.
+\newblock {\em Android Authority}, 2020.
+\newblock
+  \url{https://www.androidauthority.com/huawei-google-android-ban-988382/}.
 
 \bibitem{hinkley}
 Ed~Clowes.
@@ -36,6 +50,21 @@ Scottish Government.
 \newblock Hate crime and public order (scotland) bill information note.
 \newblock
   \url{https://www.gov.scot/binaries/content/documents/govscot/publications/factsheet/2020/04/hate-crime-bill-what-it-will-do/documents/hate-crime-bill-general-overview-note/hate-crime-bill-general-overview-note/govscot%3Adocument/Hate%2BCrime%2BBill%2B-%2BInformation%2BNote%2B-%2BGeneral%2BOverview%2BPdf%2B-%2BRevised%2BAugust%2B2020.pdf}.
+
+\bibitem{china-socred}
+Nicole Kobie.
+\newblock The complicated truth about china's social credit system.
+\newblock {\em Wired}, 2019.
+\newblock
+  \url{https://www.wired.co.uk/article/china-social-credit-system-explained}.
+
+\bibitem{nhs-app-issue}
+Rowland Manthorpe.
+\newblock Some users of nhs tracing app incorrectly given covid-19 exposure
+  alerts.
+\newblock {\em Sky News}, 2020.
+\newblock
+  \url{https://news.sky.com/story/coronavirus-some-users-of-nhs-tracing-app-incorrectly-given-covid-19-exposure-alerts-12086225}.
 
 \bibitem{ho-pw}
 Home Office.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  10 DEC 2020 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.7)  11 DEC 2020 01:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -146,27 +146,27 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -211,6 +211,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `main.toc'.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 31--40
+
+ []
+
 (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/sections/the-solution.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
@@ -226,15 +230,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--38
 
  []
 
-) (./sections/why-should-we-do-this.tex
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+(./sections/why-should-we-do-this.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--9
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
 Underfull \hbox (badness 10000) in paragraph at lines 10--17
 
  []
@@ -244,21 +249,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--27
 
  []
 
-) (./sections/why-shouldn't-we-do-this.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--18
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 19--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--50
+) (./sections/why-shouldn't-we-do-this.tex [3]
+Underfull \hbox (badness 10000) in paragraph at lines 17--28
 
  []
 
@@ -266,138 +258,147 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--50
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Underfull \hbox (badness 10000) in paragraph at lines 59--72
+Underfull \hbox (badness 10000) in paragraph at lines 49--62
 
  []
 
-)
+
+./sections/why-shouldn't-we-do-this.tex:102: LaTeX Error: There's no line here 
+to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-(/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.bbl
-Underfull \hbox (badness 1521) in paragraph at lines 4--10
-\OT1/cmr/m/n/10 gen-der bias. \OT1/cmr/m/it/10 IF-SEC Global\OT1/cmr/m/n/10 , 2
-020. $\OT1/cmr/m/n/10.95 https : / / www . ifsecglobal . com / video-[]surveill
-ance /
+ [5])
+(./sections/conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--27
+
+ []
+
+[6]) (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.bbl
+Underfull \hbox (badness 6842) in paragraph at lines 4--10
+[]\OT1/cmr/m/n/10 Ron Alalouff. Why ai and fa-cial recog-ni-tion soft-ware is u
+n-der scrutiny for
  []
 
 
-Overfull \hbox (3.36546pt too wide) in paragraph at lines 4--10
-\OT1/cmr/m/n/10.95 why-[]ai-[]and-[]facial-[]recognition-[]software-[]is-[]unde
-r-[]scrutiny-[]for-[]racial-[]and-[]gender-[]bias/$\OT1/cmr/m/n/10 . 
+Underfull \hbox (badness 3386) in paragraph at lines 18--24
+[]\OT1/cmr/m/n/10 C. Scott Brown. The huawei ban ex-plained: A com-plete time-l
+ine and ev-ery-
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 12--18
+Underfull \hbox (badness 2790) in paragraph at lines 18--24
+\OT1/cmr/m/n/10 thing you need to know. \OT1/cmr/m/it/10 An-droid Au-thor-ity\O
+T1/cmr/m/n/10 , 2020. $\OT1/cmr/m/n/8 https : / / www . androidauthority . com 
+/
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 26--32
 []\OT1/cmr/m/n/10 Ed Clowes. New head of chi-nese in-vestor in hink-ley nu-clea
-r plant brings mil-i-
+r plant brings mil-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 26--32
+\OT1/cmr/m/n/10 i-tary links. \OT1/cmr/m/it/10 The Tele-graph\OT1/cmr/m/n/10 , 
+2020. $\OT1/cmr/m/n/8 https : / / www . telegraph . co . uk / business / 2020 /
+ 08 / 01 /
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 34--38
 []\OT1/cmr/m/n/10 ETHICS COM-MIT-TEE. Meet-ing on most se-ri-ous vi-o-lence sys
--tem.
+-tem. $\OT1/cmr/m/n/8 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
-\OT1/cmr/m/n/10.95 https : / / www . westmidlands-[]pcc . gov . uk / wp-[]conte
-nt / uploads / 2019 / 12 /
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/8 westmidlands-[]pcc . gov . uk / wp-[]content / uploads / 2019 / 
+12 / 27112019-[]EC-[]Item-[]6-[]Minutes-[]and-[]Advice . pdf ?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 []\OT1/cmr/m/n/10 Scottish Gov-ern-ment. Hate crime and pub-lic or-der (scot-la
-nd) bill in-for-
+nd) bill in-for-ma-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
-\OT1/cmr/m/n/10 ma-tion note. $\OT1/cmr/m/n/10.95 https : / / www . gov . scot 
-/ binaries / content / documents / govscot /
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OT1/cmr/m/n/10 tion note. $\OT1/cmr/m/n/8 https : / / www . gov . scot / binar
+ies / content / documents / govscot / publications / factsheet /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
-\OT1/cmr/m/n/10.95 publications / factsheet / 2020 / 04 / hate-[]crime-[]bill-[
-]what-[]it-[]will-[]do / documents /
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OT1/cmr/m/n/8 2020 / 04 / hate-[]crime-[]bill-[]what-[]it-[]will-[]do / docume
+nts / hate-[]crime-[]bill-[]general-[]overview-[]note /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
-\OT1/cmr/m/n/10.95 hate-[]crime-[]bill-[]general-[]overview-[]note / hate-[]cri
-me-[]bill-[]general-[]overview-[]note /
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OT1/cmr/m/n/8 hate-[]crime-[]bill-[]general-[]overview-[]note / govscot % 3Ado
+cument / Hate % 2BCrime % 2BBill % 2B-[] %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
-\OT1/cmr/m/n/10.95 govscot % 3Adocument / Hate % 2BCrime % 2BBill % 2B-[] % 2BI
-nformation % 2BNote %
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OT1/cmr/m/n/8 2BInformation % 2BNote % 2B-[] % 2BGeneral % 2BOverview % 2BPdf 
+% 2B-[] % 2BRevised % 2BAugust % 2B2020 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
-[]\OT1/cmr/m/n/10 Home Of-fice. Po-lice work-force. 2020. $\OT1/cmr/m/n/10.95 h
-ttps : / / assets . publishing . service . gov .
+Underfull \hbox (badness 10000) in paragraph at lines 62--68
+[]\OT1/cmr/m/n/10 Rowland Man-thorpe. Some users of nhs trac-ing app in-cor-rec
+tly given
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
-\OT1/cmr/m/n/10.95 uk / government / uploads / system / uploads / attachment[]d
-ata / ^^Lle / 905169 /
+Underfull \hbox (badness 10000) in paragraph at lines 62--68
+\OT1/cmr/m/n/10 covid-19 ex-po-sure alerts. \OT1/cmr/m/it/10 Sky News\OT1/cmr/m
+/n/10 , 2020. $\OT1/cmr/m/n/8 https : / / news . sky . com / story /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--53
-[]\OT1/cmr/m/n/10 Smriti Sri-vas-tava. Top 10 coun-tries lead-ing the ar-ti-fi-
-cial in-tel-li-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--53
-\OT1/cmr/m/n/10 gence race. \OT1/cmr/m/it/10 Ana-lyitics In-sight\OT1/cmr/m/n/1
-0 , 2019. $\OT1/cmr/m/n/10.95 https : / / www . analyticsinsight . net /
- []
-
-
-Underfull \hbox (badness 4647) in paragraph at lines 55--60
+Underfull \hbox (badness 3735) in paragraph at lines 84--89
 []\OT1/cmr/m/n/10 Office Of Na-tional Sta-tis-tics. Crime in eng-land and wales
 : year end-ing june
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-\OT1/cmr/m/n/10 2020. page 5, 2020. $\OT1/cmr/m/n/10.95 https : / / www . ons .
- gov . uk / peoplepopulationandcommunity /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--60
-\OT1/cmr/m/n/10.95 crimeandjustice / bulletins / crimeinenglandandwales / yeare
-ndingjune2020 #
- []
-
-) [6] (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux) ) 
+) [7] (/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.aux) ) 
 Here is how much of TeX's memory you used:
- 2221 strings out of 480608
- 29972 string characters out of 5903630
- 277894 words of memory out of 5000000
- 17953 multiletter control sequences out of 15000+600000
- 540404 words of font info for 56 fonts, out of 8000000 for 9000
+ 2223 strings out of 480608
+ 30002 string characters out of 5903630
+ 279910 words of memory out of 5000000
+ 17952 multiletter control sequences out of 15000+600000
+ 538856 words of font info for 50 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 38i,5n,34p,401b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,5n,34p,401b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local
 /texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
-ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
-/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on "/Users/mason/Documents/LaTex Files/ECM1407/Essay1/main.pdf" 
-(6 pages, 108267 bytes).
+(7 pages, 132662 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

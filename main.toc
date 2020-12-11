@@ -1,7 +1,7 @@
 \contentsline {section}{\tocsection {}{1}{Introduction}}{1}%
 \contentsline {section}{\tocsection {}{2}{The problem}}{1}%
-\contentsline {section}{\tocsection {}{3}{The solution}}{1}%
+\contentsline {section}{\tocsection {}{3}{The solution}}{2}%
 \contentsline {section}{\tocsection {}{4}{Why should we do this?}}{3}%
 \contentsline {section}{\tocsection {}{5}{Why shouldn't we do this?}}{4}%
 \contentsline {section}{\tocsection {}{6}{Conclusion}}{6}%
-\contentsline {section}{\tocsection {}{}{References}}{6}%
+\contentsline {section}{\tocsection {}{}{References}}{7}%
